@@ -1,0 +1,25 @@
+{
+  "name": "can-merge-tests",
+  "version": "0.0.1",
+  "description": "This is a dummy repository for [can-merge](https://github.com/ljharb/can-merge) to run tests against.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Green-Ranger11/can-merge-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Green-Ranger11/can-merge-tests/issues"
+  },
+  "homepage": "https://github.com/Green-Ranger11/can-merge-tests#readme",
+  "devDependencies": {
+    "eslint": "^8.15.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
