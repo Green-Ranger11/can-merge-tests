@@ -39,15 +39,3 @@ List of commit statuses ([`commitStatus`](https://github.com/ljharb/can-merge/bl
 | STATUS_NOT_FOUND   | [89a12f]()|
 | STATUS_PENDING     | [493012]()|
 | STATUS_SUCCESS     | [41c865]()|
-
-### List of Checks
-
-List of required and non-required checks
-
-#### Required
-
-To be added
-
-#### Non-required
-
-To be added
